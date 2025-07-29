@@ -7,6 +7,7 @@
 - 📫 How to reach me: shahriarshahin2024@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love solving Rubik’s Cube in my free time.
+  
 🧑‍💻 About Me:
 Hi, I’m Shahriar Shahin, a passionate App and Backend Developer from Bangladesh. With hands-on experience in building robust mobile applications and scalable backend systems, I love turning ideas into real, user-friendly products. My expertise includes Flutter, Node.js, and I always strive to deliver clean, efficient, and maintainable code.
 I believe in understanding every project’s unique requirements and ensuring that my solutions align perfectly with the client’s vision. Whether you’re a startup aiming to launch your first app or an established business looking to upgrade your backend, I’m here to help you achieve your goals with reliable and innovative solutions.
