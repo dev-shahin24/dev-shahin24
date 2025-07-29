@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Node.js
 - 👯 I’m looking to collaborate on  App Development
 - 🤔 I’m looking for help with  App Development
-- 💬 Ask me about ...
+- 💬 Ask me about App Development
 - 📫 How to reach me: shahriarshahin22@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love solving Rubik’s Cube in my free time.
